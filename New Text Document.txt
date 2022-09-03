@@ -1,0 +1,26 @@
+logo : 127x117
+btn : 197x42 : 8 : 1, 34, 42
+entry : 337x331
+bill : 351x331
+status : 158x93 : 4
+products : 166x91 : 7
+
+
+dashboard
+products
+staff
+about
+help
+browser
+logout
+stats
+
+
+Add Products 
+Form : 816, 489
+listview : 574, 360
+pan : 200, 450
+
+
+auth
+343, 544
